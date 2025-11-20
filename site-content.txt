@@ -1,0 +1,20 @@
+Home — Hero
+Title: Smart Money Smarts
+Subtitle: Build your financial foundation: budgeting, saving, banking, and investing — designed for Canadian students.
+Primary CTA: Read the Blog (#blog)
+Secondary CTA: Get the Guide (link to Drive PDF)
+
+Blog
+- How to Set Up Your First Budget as a Teen — Track your income & expenses in 5 simple steps. Use our free template.
+- Best Bank Accounts for Canadian Students — No-fee chequing, perks, and how to choose the right one.
+- Smart Ways to Save on School Supplies — Hacks for buying cheaply and wisely.
+- TFSA vs RRSP: Which One Should You Use? — Clear breakdown for students.
+- How to Grow $20 a Week Consistently — Simple strategies: high-yield account, TFSA, or index investing.
+
+Resources
+- Budget Planner (Google Sheet) — share link as "Anyone with link can view"
+- Beginner Finance Guide (PDF) — upload to Google Drive and embed
+- Canada Budget Calculator — https://www.canada.ca/en/financial-consumer-agency/services/make-budget.html
+
+Contact
+Recommended: use Google Forms (Name, Email, Message) and embed into Contact page. Set form to store responses in a Google Sheet.

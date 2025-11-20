@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andreaskberg.github.io/smart-money-site/sitemap.xml

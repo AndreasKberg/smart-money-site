@@ -1,0 +1,7 @@
+1) Create a new site at https://sites.google.com/new
+2) Add pages: Home, Blog, Resources, About, Contact
+3) Home: paste Hero content; insert hero image (upload to Drive)
+4) Blog: create cards or pages for each post, paste excerpts
+5) Resources: upload PDF to Drive, set sharing to "Anyone with link can view", Insert -> Drive -> select PDF
+6) Contact: create a Google Form (Name, Email, Message) -> Insert -> Forms
+7) Publish: choose sites.google.com/view/your-site or connect a custom domain; set visibility to Public
